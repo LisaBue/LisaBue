@@ -1,7 +1,7 @@
 <h3 align="left">ABOUT</h3>
 
 👋 Hi, I’m Lisa from The Netherlands.<br>
-👀 I’m a Front-End Developer interested in Full-Stack Development, App Development, Game development, Blockchain development, Pixel Art.<br>
+👀 I’m a Front-End Developer interested in Full-Stack Development, Game development, Blockchain, Pixel Art.<br>
 🌱 I’m currently learning Git, HTML, CSS and Javascript.<br>
 🌱 Next: React, Node.js, Linux, C++, C#, Java, PHP, SQL, Web3, HackTheBox.<br>
 💞️ I’m looking to connect with Pixel Art Web Devs, Web3 Devs, Pentesters and Social Media Devs.<br><br>
