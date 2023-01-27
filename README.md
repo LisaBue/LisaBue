@@ -2,8 +2,8 @@
 
 👋 Hi, I’m Lisa from The Netherlands.<br>
 👀 I work as a Technical Product Owner interested in Software Development.<br>
-🌱 I’m currently learning C# and .NET.<br>
-🌱 Next: Razor, Umbraco.<br>
+🌱 I’m currently learning Razor, C# and .NET.<br>
+🌱 Next: Umbraco.<br>
 💞️ I’m looking to connect with Backend developers.<br><br>
 
 <h3 align="left">LANGUAGES & TOOLS</h3>
