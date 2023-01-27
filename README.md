@@ -14,6 +14,7 @@
 <img src="2993773_git_social media_icon.png" alt="Git" width="50" height="50"/>
 <img src="jquery-logo-BD35C03823-seeklogo.com.png" alt="jQuery" width="150" height="35"/>
 <img src="8666135_bootstrap_icon.png" alt="Bootstrap" width="50" height="50"/>
+<img src="main/c.png" alt="Bootstrap" width="50" height="50"/>
 </p><br>
 <h3 align="left">CONNECT</h3>
 <a href="https://twitter.com/Majin_Bue" target="_blank"><img src="5296516_tweet_twitter_twitter logo_icon.png" alt="Twitter" width="40" height="40"/></a> 
