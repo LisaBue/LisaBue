@@ -4,7 +4,7 @@
 👀 I work as a Technical Product Owner interested in Software Development.<br>
 🌱 I’m currently learning Razor, C# and .NET.<br>
 🌱 Next: Umbraco.<br>
-💞️ Feel free to add me on Social Media<br><br>
+💞️ Feel free to connect on Social Media.<br><br>
 
 <h3 align="left">LANGUAGES & TOOLS</h3>
 <p align="left"> 
