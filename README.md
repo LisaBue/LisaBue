@@ -1,9 +1,8 @@
 <h3 align="left">ABOUT</h3>
 
 👋 Hi, I’m Lisa from The Netherlands.<br>
-👀 I work as a Technical Product Owner interested in Software Development.<br>
-🌱 I’m currently learning Razor, C# and .NET.<br>
-🌱 Next: Umbraco.<br>
+👀 I previously worked as a Technical Product Owner interested in Web/Software Development.<br>
+🌱 I’m currently learning Full Stack Development: HTML, CSS, JS, Bootstrap, Linux, Git, Python, Django, Data Science, Machine Learning, Deep Learning.<br>
 💞️ Feel free to connect on Social Media.<br><br>
 
 <h3 align="left">LANGUAGES & TOOLS</h3>
