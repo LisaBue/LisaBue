@@ -3,7 +3,7 @@
 👋 Hi, I’m Lisa from The Netherlands.<br>
 👀 I previously worked as a Technical Product Owner.<br>
 👀 Currently, I work as a data collector.<br>
-🌱 At the moment I'm learning SQL, PandaS, and Python.<br>
+🌱 I'm interested in Data Analysis. I'm learning about SQL, PowerBI, Excel, and Python.<br>
 💞️ Feel free to connect on Social Media.<br><br>
 
 <h3 align="left">LANGUAGES & TOOLS</h3>
